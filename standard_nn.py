@@ -1,4 +1,3 @@
-from mnist import MNIST
 import numpy as np
 
 # sigmoid := 1/(1 + e^-x)
